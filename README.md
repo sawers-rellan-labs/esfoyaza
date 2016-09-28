@@ -12,5 +12,5 @@ We meet on Wednesdays at Bra-Tao at 18:00. See the list of papers below. Suggest
 
 #### Wednesday October 5
  	
-**Fransz et al** [Molecular, genetic and evolutionary analysis of a paracentric inversion in Arabidopsis thaliana](http://onlinelibrary.wiley.com/doi/10.1111/tpj.13262/full)    	          	
+**Lovell et al** [Exploiting Differential Gene Expression and Epistasis to Discover Candidate Genes for Drought-Associated QTLs in Arabidopsis thaliana](http://www.plantcell.org/content/27/4/969.short)    	          	
 	         	
