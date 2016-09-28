@@ -12,5 +12,5 @@ We meet on Wednesdays at Bra-Tao at 18:00. See the list of papers below. Suggest
 
 #### Wednesday October 5
  	
-**Lovell et al** [Exploiting Differential Gene Expression and Epistasis to Discover Candidate Genes for Drought-Associated QTLs in Arabidopsis thaliana](http://www.plantcell.org/content/27/4/969.short)    	          	
+**Lovell et al** (2016) [Exploiting Differential Gene Expression and Epistasis to Discover Candidate Genes for Drought-Associated QTLs in Arabidopsis thaliana](http://www.plantcell.org/content/27/4/969.short)    	          	
 	         	
