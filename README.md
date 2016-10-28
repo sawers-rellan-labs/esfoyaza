@@ -29,3 +29,10 @@ See commentary [here](http://www.nature.com/ng/journal/v48/n7/full/ng.3601.html)
 **Selinger & Chandler** (1999) [Major recent and independent changes in levels and patterns of expression have occurred at the _b_ gene, a regulatory locus in maize](http://www.pnas.org/content/96/26/15007.full.pdf)  
 
 **Selinger, Lisch & Chandler** (1998) [The Maize Regulatory Gene _B-Peru_ Contains a DNA Rearrangement That Specifies Tissue-Specific Expression Through Both Positive and Negative Promoter Elements](http://www.genetics.org/content/genetics/149/2/1125.full.pdf)  
+
+#### Wednesday November 2
+ 	
+**Thieme et alr** (2015) [Endogenous Arabidopsis messenger RNAs
+transported to distant tissues](http://www.nature.com.sci-hub.bz/articles/nplants201525)  
+
+
