@@ -35,4 +35,7 @@ See commentary [here](http://www.nature.com/ng/journal/v48/n7/full/ng.3601.html)
 **Thieme et alr** (2015) [Endogenous Arabidopsis messenger RNAs
 transported to distant tissues](http://www.nature.com.sci-hub.bz/articles/nplants201525)  
 
+#### Wednesday November 9
+ 	
+**Jian-Yang et alr** (2015) [A gene for genetic background in Zea mays: fine-mapping enhancer of teosinte branched1.2 (etb1.2) to a YABBY class transcription factor](http://www.genetics.org/content/genetics/early/2016/10/10/genetics.116.194928.full.pdf)  
 
