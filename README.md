@@ -2,7 +2,7 @@
 
 Informal meeting to talk (mainly) about maize, local adaptation, plant nutrition and related areas.
 
-We meet on Wednesdays at Bra-Tao at 18:00. See the list of papers below. Suggest more on slack.
+We meet on Wednesdays at Tacos San Juan at 19:15. See the list of papers below. Suggest more on slack.
 
 ![Esfoyaza](http://asturies.com/sites/default/files/Esfoyaza.jpg)
 
@@ -35,7 +35,11 @@ See commentary [here](http://www.nature.com/ng/journal/v48/n7/full/ng.3601.html)
 **Thieme et alr** (2015) [Endogenous Arabidopsis messenger RNAs
 transported to distant tissues](http://www.nature.com.sci-hub.bz/articles/nplants201525)  
 
-#### Wednesday November 9
+#### Wednesday November 9 
  	
-**Jian-Yang et alr** (2015) [A gene for genetic background in Zea mays: fine-mapping enhancer of teosinte branched1.2 (etb1.2) to a YABBY class transcription factor](http://www.genetics.org/content/genetics/early/2016/10/10/genetics.116.194928.full.pdf)  
+*Postponed for general depression after Trump won the elections.* 
+
+#### Wednesday November 16
+ 	
+**Jian-Yang et alr** (2015) [A gene for genetic background in Zea mays: fine-mapping enhancer of teosinte branched1.2 (etb1.2) to a YABBY class transcription factor](http://www.genetics.org/content/genetics/early/2016/10/10/genetics.116.194928.full.pdf)
 
