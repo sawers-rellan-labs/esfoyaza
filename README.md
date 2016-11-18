@@ -43,3 +43,8 @@ transported to distant tissues](http://www.nature.com.sci-hub.bz/articles/nplant
  	
 **Jian-Yang et alr** (2015) [A gene for genetic background in Zea mays: fine-mapping enhancer of teosinte branched1.2 (etb1.2) to a YABBY class transcription factor](http://www.genetics.org/content/genetics/early/2016/10/10/genetics.116.194928.full.pdf)
 
+#### Wednesday November 23
+ 	
+**Gould et alr** (2015) [Pooled ecotype sequencing reveals candidate genetic mechanisms for adaptive differentiation and reproductive isolation](http://onlinelibrary.wiley.com/store/10.1111/mec.13881/asset/mec13881.pdf?v=1&t=ivoe00ba&s=392682e3f2186d30ec6b0c1aeb0c117572df7cb5)
+
+
