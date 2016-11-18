@@ -45,6 +45,6 @@ transported to distant tissues](http://www.nature.com.sci-hub.bz/articles/nplant
 
 #### Wednesday November 23
  	
-**Gould et alr** (2015) [Pooled ecotype sequencing reveals candidate genetic mechanisms for adaptive differentiation and reproductive isolation](http://onlinelibrary.wiley.com/store/10.1111/mec.13881/asset/mec13881.pdf?v=1&t=ivoe00ba&s=392682e3f2186d30ec6b0c1aeb0c117572df7cb5)
+**Gould et al** (2015) [Pooled ecotype sequencing reveals candidate genetic mechanisms for adaptive differentiation and reproductive isolation](http://onlinelibrary.wiley.com/store/10.1111/mec.13881/asset/mec13881.pdf?v=1&t=ivoe00ba&s=392682e3f2186d30ec6b0c1aeb0c117572df7cb5)
 
 
