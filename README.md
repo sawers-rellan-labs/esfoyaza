@@ -47,4 +47,7 @@ transported to distant tissues](http://www.nature.com.sci-hub.bz/articles/nplant
  	
 **Gould et al** (2016) [Pooled ecotype sequencing reveals candidate genetic mechanisms for adaptive differentiation and reproductive isolation](http://onlinelibrary.wiley.com/doi/10.1111/mec.13881/abstract)
 
+#### Wednesday November 30
+**Todesco el al** [Natural allelic variation underlying a major fitness trade-off in Arabidopsis thaliana](https://www.dropbox.com/s/udyj3axclat89bs/todesco2010.pdf?dl=0)
+
 
