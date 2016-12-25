@@ -32,7 +32,7 @@ See commentary [here](http://www.nature.com/ng/journal/v48/n7/full/ng.3601.html)
 
 #### Wednesday November 2
  	
-**Thieme et alr** (2015) [Endogenous Arabidopsis messenger RNAs
+**Thieme et al** (2015) [Endogenous Arabidopsis messenger RNAs
 transported to distant tissues](http://www.nature.com.sci-hub.bz/articles/nplants201525)  
 
 #### Wednesday November 9 
@@ -41,7 +41,7 @@ transported to distant tissues](http://www.nature.com.sci-hub.bz/articles/nplant
 
 #### Wednesday November 16
  	
-**Jian-Yang et alr** (2015) [A gene for genetic background in Zea mays: fine-mapping enhancer of teosinte branched1.2 (etb1.2) to a YABBY class transcription factor](http://www.genetics.org/content/genetics/early/2016/10/10/genetics.116.194928.full.pdf)
+**Jian-Yang et al** (2015) [A gene for genetic background in Zea mays: fine-mapping enhancer of teosinte branched1.2 (etb1.2) to a YABBY class transcription factor](http://www.genetics.org/content/genetics/early/2016/10/10/genetics.116.194928.full.pdf)
 
 #### Wednesday November 23
  	
@@ -49,5 +49,8 @@ transported to distant tissues](http://www.nature.com.sci-hub.bz/articles/nplant
 
 #### Wednesday November 30
 **Todesco el al** [Natural allelic variation underlying a major fitness trade-off in Arabidopsis thaliana](https://www.dropbox.com/s/udyj3axclat89bs/todesco2010.pdf?dl=0)
+
+#### Wednesday December 28
+**Renny-Byfield, Rodgers-Melnick & Ross-Ibarra** [Gene fractionation and function in the ancient subgenomes of maize](http://biorxiv.org/content/early/2016/12/19/095547)
 
 
