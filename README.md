@@ -4,13 +4,13 @@ Informal meeting to talk (mainly) about maize, local adaptation, plant nutrition
 
 We meet on Wednesdays at Tacos San Juan at 19:15. See the list of papers below. Suggest more on slack.
 
-![Esfoyaza](http://asturies.com/sites/default/files/Esfoyaza.jpg)
+![Esfoyaza](http://asturies.com/sites/default/files/Esfoyaza.jpg)  
 
 ##2017
 
 #### Wednesday January 11
 
-**Shaw et al** (2014) [Natural Selection Canalizes Expression Variation of Environmentally Induced Plasticity-Enabling Genes](http://mbe.oxfordjournals.org/content/31/11/3002)
+**Shaw et al** (2014) [Natural Selection Canalizes Expression Variation of Environmentally Induced Plasticity-Enabling Genes](http://mbe.oxfordjournals.org/content/31/11/3002)  
 
 ##2016
 
