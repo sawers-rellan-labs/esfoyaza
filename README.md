@@ -8,6 +8,11 @@ We meet on Wednesdays at Tacos San Juan at 19:15. See the list of papers below. 
 
 ##2017
 
+#### Wednesday February 22
+
+**Waters et al** (2017) [Natural variation for gene expression responses to abiotic stress in maize](http://onlinelibrary.wiley.com/doi/10.1111/tpj.13414/full)  
+
+
 #### Wednesday January 11
 
 **Shaw et al** (2014) [Natural Selection Canalizes Expression Variation of Environmentally Induced Plasticity-Enabling Genes](http://mbe.oxfordjournals.org/content/31/11/3002)  
