@@ -2,11 +2,16 @@
 
 Informal meeting to talk (mainly) about maize, local adaptation, plant nutrition and related areas.
 
-We meet on Wednesdays at Tacos San Juan at 19:15. See the list of papers below. Suggest more on slack.
+We meet on Wednesdays at Quesadillas el Comal at 13:00. See the list of papers below. Suggest more on slack.
 
 ![Esfoyaza](http://asturies.com/sites/default/files/Esfoyaza.jpg)  
 
 ##2017
+
+#### Wednesday March 1
+
+**Maron et al** (2017) [Aluminum tolerance in maize is associated with higher MATE1 gene copy number](http://www.pnas.org/content/110/13/5241)  
+
 
 #### Wednesday February 22
 
