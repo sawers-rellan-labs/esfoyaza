@@ -1,12 +1,16 @@
-# esfoyaza
+# [Esfoyaza](http://dle.rae.es/?id=GPtv23E)
 
 Informal meeting to talk (mainly) about maize, local adaptation, plant nutrition and related areas.
 
-We meet on Wednesdays at Quesadillas el Comal at 13:00. See the list of papers below. Suggest more on slack.
+We meet on Wednesdays at the library terrace of the administrative building at 5 PM. See the list of papers below. Suggest more on slack.
 
 ![Esfoyaza](http://asturies.com/sites/default/files/Esfoyaza.jpg)  
 
 ##2017
+
+#### Wednesday March 8
+
+**Plessis et al** (2015) [Multiple abiotic stimuli are integrated in the regulation of rice gene expression under field conditions](https://elifesciences.org/content/4/e08411)  
 
 #### Wednesday March 1
 
