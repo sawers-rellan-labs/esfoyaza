@@ -8,6 +8,11 @@ We meet on Wednesdays at the library terrace of the administrative building at 5
 
 ##2017
 
+#### Wednesday March 15
+
+**Liu et al** (2012)[Changes in genome content generated via segregation of non-allelic homologs](https://t.co/PNISopAxb3)  
+
+
 #### Wednesday March 8
 
 **Plessis et al** (2015) [Multiple abiotic stimuli are integrated in the regulation of rice gene expression under field conditions](https://elifesciences.org/content/4/e08411)  
