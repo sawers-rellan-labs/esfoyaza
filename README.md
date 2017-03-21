@@ -6,7 +6,11 @@ We meet on Wednesdays at the library terrace of the administrative building at 5
 
 ![Esfoyaza](http://asturies.com/sites/default/files/Esfoyaza.jpg)  
 
-##2017
+## 2017
+
+#### Wednesday March 22
+
+**Lemmon et al** (2014)[The Role of cis Regulatory Evolution in Maize Domestication](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004745)  
 
 #### Wednesday March 15
 
