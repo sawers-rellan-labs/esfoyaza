@@ -8,6 +8,10 @@ We meet on Wednesdays at the library terrace of the administrative building at 5
 
 ## 2017
 
+#### Wednesday March 29
+
+**Fustier et al** (2014)[Signatures of local adaptation in lowland and highland teosintes from whole genome sequencing of pooled samples](http://onlinelibrary.wiley.com/doi/10.1111/mec.14082/full)
+
 #### Wednesday March 22
 
 **Lemmon et al** (2014)[The Role of cis Regulatory Evolution in Maize Domestication](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004745)  
