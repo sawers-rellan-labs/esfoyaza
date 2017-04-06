@@ -10,7 +10,7 @@ We meet on Wednesdays at the library terrace of the administrative building at 5
 
 #### Wednesday April 12
 
-**Wu et al** (2012) [http://www.pnas.org/content/109/26/10281.abstract](http://www.nature.com/articles/ncomms9326)(Presence of tannins in sorghum grains is conditioned by different natural alleles of Tannin1)
+**Wu et al** (2012) [Presence of tannins in sorghum grains is conditioned by different natural alleles of Tannin1](http://www.pnas.org/content/109/26/10281.abstract)
 
 #### Wednesday April 5
 
